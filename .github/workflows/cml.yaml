@@ -1,4 +1,4 @@
-me: model-training
+name: model-training
 on: [push]
 jobs:
   run:
